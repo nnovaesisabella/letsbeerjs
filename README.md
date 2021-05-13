@@ -23,6 +23,9 @@ Além disso, está disponível no modo ligth e dark.
 🛠️ Execução do projeto
 
 #git clone do repositório https://github.com/nnovaesisabella/letsbeerjs.git
+
 #abrir o arquivo cd letsbeerjs
+
 #code . 
+
 #abrir no browser o arquivo index.html
