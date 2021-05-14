@@ -16,7 +16,6 @@ showMenu('nav-toggle', 'nav-menu')
 //....................Remove Menu Page....................//
 
 const navLink = document.querySelectorAll('.nav_link')
-
 const linkAction = () => {
     const navMenu = document.getElementById('nav-menu')
     navMenu.classList.remove('show-menu')
